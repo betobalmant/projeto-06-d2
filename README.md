@@ -6,7 +6,7 @@
 
 Projeto construido no stage 5 do curso Explorer da Rocketseat
 
-[Clique aqui para acessar](https://betobalmant.github.io/projeto-06-d2/)
+[Clique aqui para acessar](https://projeto-07.vercel.app/)
 
 ## Tecnologias
 
